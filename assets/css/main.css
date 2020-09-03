@@ -3318,3 +3318,9 @@ input, select, textarea {
     justify-content: space-between;
     text-align: center;
 }
+
+.screenshot {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
