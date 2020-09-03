@@ -3312,3 +3312,9 @@ input, select, textarea {
 .resume {
   margin-top: 17%;
 }
+
+.skills div {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
